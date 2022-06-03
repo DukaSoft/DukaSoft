@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning DRY & xUnit
+
 ## This is my current progress:
 ![Honest Knowledge](https://user-images.githubusercontent.com/43952666/170996723-681e7d9c-896b-4bc9-b4f7-516d2542c278.png)
 
